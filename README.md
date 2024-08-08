@@ -62,23 +62,4 @@
 
 ---
 
-<h3 align="center" style="animation: bounce 1.5s infinite;">🎮 Snake Game</h3>
-<div align="center">
-  <img src="dist/ocean.gif" alt="Snake Game" width="400" style="border-radius: 20px;"/>
-</div>
 
----
-
-<style>
-  @keyframes bounce {
-    0%, 20%, 50%, 80%, 100% {
-      transform: translateY(0);
-    }
-    40% {
-      transform: translateY(-15px);
-    }
-    60% {
-      transform: translateY(-10px);
-    }
-  }
-</style>
