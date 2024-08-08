@@ -82,5 +82,6 @@
 
 <h3 align="center">Snake Game:</h3>
 <p align="center">
-  <img src="https://github.com/furkanatasert/furkanatasert/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github.com/furkanatasert/furkanatasert/blob/main/dist/ocean.gif" alt="snake game" />
 </p>
+
