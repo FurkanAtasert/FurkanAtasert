@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm Furkan!</h1>
-<h2 align="center">🌟 Passionate Data Scientist & AI Enthusiast</h2>
+<h1 align="center" style="font-size: 48px; color: #4a90e2;">👋 Hi, I'm Furkan!</h1>
+<h2 align="center" style="color: #d81b60;">🌟 Passionate Data Scientist & AI Enthusiast</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=furkanatasert&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -13,16 +13,16 @@
 
 ---
 
-<h3 align="center" style="animation: pulse 2s infinite;">🚀 About Me</h3>
-<p align="center" style="font-size: 20px;">
+<h3 align="center" style="animation: bounce 1.5s infinite;">🚀 About Me</h3>
+<p align="center" style="font-size: 20px; line-height: 1.5;">
   🌱 Currently learning <strong>Machine Learning - Data Mining</strong><br>
   💬 Feel free to ask me about <strong>Machine Learning</strong><br>
-  📫 Reach me at <strong><a href="mailto:furkanatasert.is@gmail.com">furkanatasert.is@gmail.com</a></strong>
+  📫 Reach me at <strong><a href="mailto:furkanatasert.is@gmail.com" style="color: #d81b60;">furkanatasert.is@gmail.com</a></strong>
 </p>
 
 ---
 
-<h3 align="center" style="animation: pulse 2s infinite;">🌐 Connect with Me</h3>
+<h3 align="center" style="animation: bounce 1.5s infinite;">🌐 Connect with Me</h3>
 <p align="center">
   <a href="https://linkedin.com/in/furkan-atasert-33477b1a1/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -34,7 +34,7 @@
 
 ---
 
-<h3 align="center" style="animation: pulse 2s infinite;">🛠 Languages and Tools</h3>
+<h3 align="center" style="animation: bounce 1.5s infinite;">🛠 Languages and Tools</h3>
 <p align="center">
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" /></a>
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40" /></a>
@@ -45,16 +45,16 @@
 
 ---
 
-<h3 align="center" style="animation: pulse 2s infinite;">💖 Support Me</h3>
+<h3 align="center" style="animation: bounce 1.5s infinite;">💖 Support Me</h3>
 <p align="center">
-  <a href="https://www.buymeacoffee.com/furkan.atasert">
+  <a href="https://www.buymeacoffee.com/furkan.atasert" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
   </a>
 </p>
 
 ---
 
-<h3 align="center" style="animation: pulse 2s infinite;">📈 GitHub Stats</h3>
+<h3 align="center" style="animation: bounce 1.5s infinite;">📈 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=furkanatasert&show_icons=true&locale=en" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=furkanatasert&" alt="GitHub Streak" />
@@ -62,7 +62,7 @@
 
 ---
 
-<h3 align="center" style="animation: pulse 2s infinite;">🎮 Snake Game</h3>
+<h3 align="center" style="animation: bounce 1.5s infinite;">🎮 Snake Game</h3>
 <div align="center">
   <img src="dist/ocean.gif" alt="Snake Game" width="400" style="border-radius: 20px;"/>
 </div>
@@ -70,15 +70,15 @@
 ---
 
 <style>
-  @keyframes pulse {
-    0% {
-      transform: scale(1);
+  @keyframes bounce {
+    0%, 20%, 50%, 80%, 100% {
+      transform: translateY(0);
     }
-    50% {
-      transform: scale(1.05);
+    40% {
+      transform: translateY(-15px);
     }
-    100% {
-      transform: scale(1);
+    60% {
+      transform: translateY(-10px);
     }
   }
 </style>
