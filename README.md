@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding" width="500" height="300"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding" width="300" height="200" style="border-radius: 50%; border: 3px solid #0e75b6;" />
 </p>
 
 - 🌱 I’m currently learning **Machine Learning - Data Mining**
