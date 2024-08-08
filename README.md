@@ -6,21 +6,21 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding" width="300" height="200" style="border-radius: 50%; border: 3px solid #0e75b6;" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding" width="200" height="150" style="border-radius: 20px; margin-right: 10px;"/>
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Data Science" width="200" height="150" style="border-radius: 20px; margin-right: 10px;"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="AI Enthusiast" width="200" height="150" style="border-radius: 20px;"/>
 </p>
 
 - 🌱 I’m currently learning **Machine Learning - Data Mining**
-
 - 💬 Ask me about **Machine Learning**
-
 - 📫 How to reach me **furkanatasert.is@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/furkan-atasert-33477b1a1/" target="blank">
+  <a href="https://linkedin.com/in/furkan-atasert-33477b1a1/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/https://www.instagram.com/furkan.atasert" target="blank">
+  <a href="https://instagram.com/furkan.atasert" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
