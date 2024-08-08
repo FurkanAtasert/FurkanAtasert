@@ -13,14 +13,16 @@
 
 ---
 
-### 🚀 About Me
-- 🌱 Currently learning **Machine Learning - Data Mining**
-- 💬 Feel free to ask me about **Machine Learning**
-- 📫 Reach me at **[furkanatasert.is@gmail.com](mailto:furkanatasert.is@gmail.com)**
+<h3 align="center" style="animation: pulse 2s infinite;">🚀 About Me</h3>
+<p align="center" style="font-size: 20px;">
+  🌱 Currently learning <strong>Machine Learning - Data Mining</strong><br>
+  💬 Feel free to ask me about <strong>Machine Learning</strong><br>
+  📫 Reach me at <strong><a href="mailto:furkanatasert.is@gmail.com">furkanatasert.is@gmail.com</a></strong>
+</p>
 
 ---
 
-### 🌐 Connect with Me
+<h3 align="center" style="animation: pulse 2s infinite;">🌐 Connect with Me</h3>
 <p align="center">
   <a href="https://linkedin.com/in/furkan-atasert-33477b1a1/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -32,7 +34,7 @@
 
 ---
 
-### 🛠 Languages and Tools
+<h3 align="center" style="animation: pulse 2s infinite;">🛠 Languages and Tools</h3>
 <p align="center">
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" /></a>
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40" /></a>
@@ -43,7 +45,7 @@
 
 ---
 
-### 💖 Support Me
+<h3 align="center" style="animation: pulse 2s infinite;">💖 Support Me</h3>
 <p align="center">
   <a href="https://www.buymeacoffee.com/furkan.atasert">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
@@ -52,7 +54,7 @@
 
 ---
 
-### 📈 GitHub Stats
+<h3 align="center" style="animation: pulse 2s infinite;">📈 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=furkanatasert&show_icons=true&locale=en" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=furkanatasert&" alt="GitHub Streak" />
@@ -60,7 +62,23 @@
 
 ---
 
-### 🎮 Snake Game
+<h3 align="center" style="animation: pulse 2s infinite;">🎮 Snake Game</h3>
 <div align="center">
   <img src="dist/ocean.gif" alt="Snake Game" width="400" style="border-radius: 20px;"/>
 </div>
+
+---
+
+<style>
+  @keyframes pulse {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.05);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+</style>
