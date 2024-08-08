@@ -6,7 +6,11 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="500" height="300"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding" width="500" height="300"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="AI Thinking" width="300" height="200"/>
 </p>
 
 - 🌱 I’m currently learning **Machine Learning - Data Mining**
