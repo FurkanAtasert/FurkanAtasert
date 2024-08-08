@@ -1,0 +1,39 @@
+name: Generate Snake Game and Git Artwork
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '* * * * *'  # Her dakika çalıştır
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Game
+        uses: Platane/snk@v3
+        with:
+          github_user_name: FurkanAtasert  # GitHub kullanıcı adı
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: Upload Snake Game
+        uses: actions/upload-artifact@v2
+        with:
+          name: snake-game
+          path: dist/
+
+      - name: Generate Git Artwork
+        uses: jasineri/gitartwork@v1
+        with:
+          user_name: FurkanAtasert  # GitHub kullanıcı adı
+          text: FurkanAtasert  # Kullanıcı adını grafikte gösterir
+
+      - name: Push Git Artwork
+        uses: jasineri/simple-push-action@v1
