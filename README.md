@@ -70,7 +70,7 @@
   <a href="https://www.buymeacoffee.com/furkan.atasert"> 
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="furkan.atasert" />
   </a>
-</p>
+</p><br><br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=furkanatasert&show_icons=true&locale=en" alt="furkanatasert" />
@@ -82,6 +82,5 @@
 
 <h3 align="center">Snake Game:</h3>
 <p align="center">
-  <img src="https://github.com/furkanatasert/furkanatasert/blob/main/dist/ocean.gif" alt="snake game" />
+  <img src="dist/ocean.gif" alt="snake gif" />
 </p>
-
