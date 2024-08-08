@@ -17,10 +17,10 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/furkan-atasert-33477b1a1/" target="blank">
+  <a href="https://linkedin.com/in/furkan-atasert-33477b1a1/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/furkan.atasert" target="blank">
+  <a href="https://instagram.com/furkan.atasert" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
@@ -70,7 +70,7 @@
   <a href="https://www.buymeacoffee.com/furkan.atasert"> 
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="furkan.atasert" />
   </a>
-</p><br><br>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=furkanatasert&show_icons=true&locale=en" alt="furkanatasert" />
@@ -82,6 +82,5 @@
 
 <h3 align="center">Snake Game:</h3>
 <p align="center">
-  <img src="dist/ocean.gif" alt="snake gif" />
+  <img src="https://github.com/furkanatasert/furkanatasert/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
-
