@@ -1,5 +1,20 @@
-<h1 align="center" style="font-size: 48px; color: #4a90e2;">👋 Hi, I'm Furkan!</h1>
-<h2 align="center" style="color: #d81b60;">🌟 Passionate Data Scientist & AI Enthusiast</h2>
+<h2 align="center" style="color: #d81b60;">
+  🌟 <span class="rotating-text">I'm Furkan | Passionate Data Scientist | AI Enthusiast</span>
+</h2>
+
+<script type="text/javascript">
+    var textArray = ["I'm Furkan", "Passionate Data Scientist", "AI Enthusiast"];
+    var delay = 2000; // 2 seconds
+    var index = 0;
+
+    function rotateText() {
+        document.querySelector('.rotating-text').textContent = textArray[index];
+        index = (index + 1) % textArray.length;
+    }
+
+    setInterval(rotateText, delay);
+</script>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=furkanatasert&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
