@@ -1,6 +1,15 @@
 <h1 align="center" style="font-size: 48px; color: #4a90e2;">👋 Hi, There!</h1>
 <h2 align="center" style="color: #d81b60;">🌟 Passionate Data Scientist & AI Enthusiast</h2>
 
+**IMPORTANT NOTICE**  
+This repository contains private and advanced research materials, including (but not limited to) transformer models, SVM implementations, dynamic programming algorithms, machine learning modules, and large language models (LLMs). Unauthorized access, sharing, or use of any material in this repository is strictly prohibited.
+
+- All research artifacts, data, and code are confidential.
+- Access is granted on a need-to-know basis only.
+- Please do not distribute or disclose any part of this content without explicit permission from the repository owner.
+
+Thank you for respecting the confidentiality of this project.
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=furkanatasert&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
