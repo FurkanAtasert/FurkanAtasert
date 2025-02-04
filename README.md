@@ -2,7 +2,7 @@
 <h2 align="center" style="color: #d81b60;">🌟 Passionate Data Scientist & AI Enthusiast</h2>
 
 **IMPORTANT NOTICE**  
-This repository contains private and advanced research materials, including (but not limited to) transformer models, SVM implementations, dynamic programming algorithms, machine learning modules, and large language models (LLMs). The majority of code blocks related to these methods are hidden.
+This blog contains private and advanced research materials, including (but not limited to) transformer models, SVM implementations, dynamic programming algorithms, machine learning modules, and large language models (LLMs). The majority of code blocks related to these methods are hidden.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=furkanatasert&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
