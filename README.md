@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 48px; color: #4a90e2;">👋 Welcome to mein Blog!</h1>
+<h1 align="center" style="font-size: 48px; color: #4a90e2;">👋 Welcome to mine Portfolio!</h1>
 <h2 align="center" style="color: #d81b60;">🌟 I wish "Have a good day"</h2>
 
 I’m Furkan Atasert — a Statistics graduate and an MSc student in Data Science.
