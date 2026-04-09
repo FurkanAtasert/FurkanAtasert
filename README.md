@@ -1,3 +1,5 @@
+<div class="badge-base LI-profile-badge" data-locale="de_DE" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="furkan-atasert-33477b1a1" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/furkan-atasert-33477b1a1?trk=profile-badge">Furkan Atasert</a></div>
+              
 # Hi, I'm Furkan Atasert
 
 I am a Statistics graduate and an M.Sc. student in Data Science, with a strong interest in machine learning, statistical modeling, and reproducible analytical workflows. My work focuses on combining statistical rigor with practical data science methods to build clear, reliable, and well-documented projects.
